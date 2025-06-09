@@ -9,7 +9,8 @@
 - **掩码处理工具**：包含快速和自适应的掩码补齐功能
 - **四边形掩码变形**：基于掩码的图像变形工具
 
-## 安装方法
+## 安装方法![屏幕截图 2025-06-10 003941](https://github.com/user-attachments/assets/3ac0c98e-bbf4-4d66-b3c2-3a49b8ced17e)
+
 
 ### 方法一：使用 ComfyUI Manager
 
