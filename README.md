@@ -55,7 +55,3 @@ pip install -r requirements.txt
 ### 四边形掩码变形 (QuadMaskWarper)
 
 基于掩码的图像变形工具，可以将图像按照掩码形状进行变形。
-
-## 许可证
-
-MIT 许可证 - 详见 [LICENSE](LICENSE) 文件 
