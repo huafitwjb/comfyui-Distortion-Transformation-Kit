@@ -1,9 +1,0 @@
-torch>=1.7.0  # PyTorch深度学习框架
-numpy>=1.19.0  # 数值计算库
-opencv-python>=4.5.0  # 计算机视觉库
-pillow>=8.0.0  # 图像处理库
-sympy>=1.8.0  # 符号数学计算库
-aiohttp>=3.7.0  # 异步HTTP客户端/服务器框架
-scikit-image>=0.18.0  # 图像处理算法库
-scipy>=1.6.0  # 科学计算库
-matplotlib>=3.3.0  # 绘图库
