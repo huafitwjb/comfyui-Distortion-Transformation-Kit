@@ -73,3 +73,4 @@ pip install -r requirements.txt
 ![屏幕截图 2025-06-10 013441](https://github.com/user-attachments/assets/b83c14d4-6a3f-4cfc-911e-5997a334190c)
 
 基于掩码的图像变形工具，可以将图像按照掩码形状进行变形。
+详细教程 【硬核组合！ComfyUI实现PS扭曲变换、批量洗图搞定批量样机，还能优化葫芦娃相框工作流！】https://www.bilibili.com/video/BV1XNTxz8EYv?vd_source=be994b32b02aea717d97a73e61a1dd72
